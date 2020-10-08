@@ -6,3 +6,11 @@
 h1 {
   text-align: center;
 }
+
+.Pokedex-winner {
+  color: green;
+}
+
+.Pokedex-loser {
+  color: red;
+}
